@@ -65,7 +65,7 @@ export default function Hero() {
         <div className="flex justify-center md:justify-center">
           <div className="relative w-80 h-80 rounded-full overflow-hidden shadow-lg">
             <img
-              src="/public/MyImage.jpg"
+              src="/MyImage.jpg"
               alt="Jeel Patel"
               className="w-full h-full object-cover"
             />
