@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: 255 255 255;
+  --surface: 120 179 206;
+  --text: 50 54 67;
+  --accent: 229 32 32;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #b3d2f2;
+}
+::-webkit-scrollbar-thumb {
+  background: #ee4c4c;
+  border-radius: 3px;
+}
