@@ -45,7 +45,7 @@ export const projects = [
       'PyTorch (MTCNN)',
       'Boto3',
     ],
-    link: 'https://github.com/Jeel13',
+    link: 'https://github.com/Jeel13/EdgeVision',
     demo: '',
   },
   {
