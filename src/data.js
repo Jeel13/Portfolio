@@ -49,9 +49,30 @@ export const projects = [
     demo: '',
   },
   {
+    title: 'IntraIntel',
+    desc: 'An AI-powered assistant that uses RAG, FAISS, and FastAPI to deliver instant answers from company documentation.',
+    tech: [
+      'RAG', 
+      'FAISS', 
+      'Python', 
+      'FastAPI', 
+      'React', 
+      'Axios'
+    ],
+    link: 'https://github.com/Jeel13/IntraIntel',
+    demo: '',
+  },
+  {
     title: 'Rebbit',
     desc: 'Real-time social platform with chat, nested comments, search, and profile management.',
-    tech: ['React', 'Node.js', 'MongoDB', 'Express', 'JWT', 'Socket.io'],
+    tech: [
+      'React', 
+      'Node.js', 
+      'MongoDB', 
+      'Express', 
+      'JWT', 
+      'Socket.io'
+    ],
     link: 'https://github.com/Jeel13/Rebbit',
     demo: '',
   },
