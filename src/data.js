@@ -114,7 +114,7 @@ export const extracurriculars = [
   {
     name: 'Leetcode',
     detail:
-      'Solved 450+ coding problems spanning arrays, graphs, dynamic programming, etc.. Active contributor to contests and discussion boards.',
+      'Solved 600+ coding problems spanning arrays, graphs, dynamic programming, etc.. Active contributor to contests and discussion boards.',
     link: 'https://leetcode.com/u/Jeel13/',
     linkLabel: 'Visit Profile',
   },
